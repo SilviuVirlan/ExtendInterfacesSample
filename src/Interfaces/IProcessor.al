@@ -1,0 +1,5 @@
+
+interface Processor
+{
+    procedure Process();
+}
